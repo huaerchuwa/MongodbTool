@@ -1,0 +1,15 @@
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB_Library.exe.config
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB_Library.exe
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB_Library.pdb
+D:\TestC#\MongoDB_Library\MongoDB_Library\obj\Debug\MongoDB_Library.csprojResolveAssemblyReference.cache
+D:\TestC#\MongoDB_Library\MongoDB_Library\obj\Debug\MongoDB_Library.Form1.resources
+D:\TestC#\MongoDB_Library\MongoDB_Library\obj\Debug\MongoDB_Library.Properties.Resources.resources
+D:\TestC#\MongoDB_Library\MongoDB_Library\obj\Debug\MongoDB_Library.csproj.GenerateResource.Cache
+D:\TestC#\MongoDB_Library\MongoDB_Library\obj\Debug\MongoDB_Library.exe
+D:\TestC#\MongoDB_Library\MongoDB_Library\obj\Debug\MongoDB_Library.pdb
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB.Bson.dll
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB.Driver.dll
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB.Bson.pdb
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB.Bson.xml
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB.Driver.pdb
+D:\TestC#\MongoDB_Library\MongoDB_Library\bin\Debug\MongoDB.Driver.xml
